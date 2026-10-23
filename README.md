@@ -14,6 +14,12 @@
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white) ![Zed](https://img.shields.io/badge/-Zed-181818?style=flat-square&logo=zedindustries&logoColor=white) ![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black) ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white) ![IntelliCode](https://img.shields.io/badge/-IntelliCode-000000?style=flat-square&logo=jetbrains&logoColor=white)
 ![RustRover](https://img.shields.io/badge/-RustRover-000000?style=flat-square&logo=jetbrains&logoColor=white)
 
+💻 **Мой ноутбук:**
+![MacBook Air 15](https://img.shields.io/badge/-MacBook_Air_15"-000000?style=flat-square&logo=apple&logoColor=white) ![Apple M3](https://img.shields.io/badge/-Apple_M3-333333?style=flat-square&logo=apple&logoColor=white) ![16GB RAM](https://img.shields.io/badge/-16GB_RAM-555555?style=flat-square)
+
+🖥️ **Мой компьютер:**
+![Windows 11 IoT LTSC](https://img.shields.io/badge/-Windows_11_IoT_LTSC-0078D4?style=flat-square&logo=windows11&logoColor=white) ![Intel Core i9](https://img.shields.io/badge/-Intel_Core_i9--9900K-0071C5?style=flat-square&logo=intel&logoColor=white) ![Z390 AORUS ELITE](https://img.shields.io/badge/-Z390_AORUS_ELITE-F7300B?style=flat-square) ![32GB RAM](https://img.shields.io/badge/-32GB_RAM-555555?style=flat-square)
+
 ### `> ./scripts/fetch_stats.sh`
 
 <p align="left">
