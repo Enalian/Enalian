@@ -11,8 +11,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Alpine Linux](https://img.shields.io/badge/-Alpine_Linux-0D597F?style=flat-square&logo=alpine-linux&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=codeblocks&logoColor=white)
 
 ⌨️ **Редакторы и IDE:**
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white) ![Zed](https://img.shields.io/badge/-Zed-181818?style=flat-square&logo=zedindustries&logoColor=white) ![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black) ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white) ![IntelliCode](https://img.shields.io/badge/-IntelliCode-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![RustRover](https://img.shields.io/badge/-RustRover-000000?style=flat-square&logo=rust&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white) ![Zed](https://img.shields.io/badge/-Zed-181818?style=flat-square&logo=zedindustries&logoColor=white) ![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black) ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white) ![IntelliCode](https://img.shields.io/badge/-IntelliCode-5C2D91?style=flat-square&logo=jetbrains&logoColor=white)
+![RustRover](https://img.shields.io/badge/-RustRover-000000?style=flat-square&logo=jetbrains&logoColor=white)
 
 ### `> ./scripts/fetch_stats.sh`
 
