@@ -29,6 +29,7 @@
 - 🥚 **[GMOD Egg](https://github.com/Enalian/ptero_gmod)** - Яйцо для Pelican/Pterodactyl с интеграцией Garry's Mod.
 - ⌨️ **[Metrostroi ARM](https://github.com/Enalian/metrostroi_arm)** - АРМ-Д для Metrostroi.
 - 🚆 **[Metrostroi Scripts](https://github.com/Enalian/metrostroi_scripts_fix_key)** - Скрипты Metrostori _(версия Workshop)_ с пофикшенным ключом администратора.
+- 📃 **[Simple Whitelist](https://github.com/Enalian/simple_whitelist)** - Простенький белый список с менюшкой на **Mantle**, индивидуальными паролями и другими фишками.
 
 ### `> ping -c 1 contacts`
 
