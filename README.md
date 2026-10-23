@@ -15,10 +15,10 @@
 ![RustRover](https://img.shields.io/badge/-RustRover-000000?style=flat-square&logo=jetbrains&logoColor=white)
 
 💻 **Мой ноутбук:**
-![MacBook Air 15](https://img.shields.io/badge/-MacBook_Air_15"-000000?style=flat-square&logo=apple&logoColor=white) ![Apple M3](https://img.shields.io/badge/-Apple_M3-333333?style=flat-square&logo=apple&logoColor=white) ![16GB RAM](https://img.shields.io/badge/-16GB_RAM-555555?style=flat-square)
+![MacBook Air 15](https://img.shields.io/badge/-MacBook_Air_15"-000000?style=flat-square&logo=apple&logoColor=white) ![Apple M3](https://img.shields.io/badge/-Apple_M3-333333?style=flat-square&logo=apple&logoColor=white) ![16GB RAM](https://img.shields.io/badge/-16GB_RAM-555555?style=flat-square&logo=samsung&logoColor=white)
 
 🖥️ **Мой компьютер:**
-![Windows 11 IoT LTSC](https://img.shields.io/badge/-Windows_11_IoT_LTSC-0078D4?style=flat-square&logo=windows11&logoColor=white) ![Intel Core i9](https://img.shields.io/badge/-Intel_Core_i9--9900K-0071C5?style=flat-square&logo=intel&logoColor=white) ![Z390 AORUS ELITE](https://img.shields.io/badge/-Z390_AORUS_ELITE-F7300B?style=flat-square) ![32GB RAM](https://img.shields.io/badge/-32GB_RAM-555555?style=flat-square)
+![Windows 11 IoT LTSC](https://img.shields.io/badge/-Windows_11_IoT_LTSC-0078D4?style=flat-square&logo=codeblocks&logoColor=white) ![Intel Core i9](https://img.shields.io/badge/-Intel_Core_i9--9900K-0071C5?style=flat-square&logo=intel&logoColor=white) ![Z390 AORUS ELITE](https://img.shields.io/badge/-Z390_AORUS_ELITE-F7300B?style=flat-square&logo=gigabyte&logoColor=white) ![32GB RAM](https://img.shields.io/badge/-32GB_RAM-555555?style=flat-square&logo=corsair&logoColor=white) ![MSI NVIDIA RTX 3060 Ti 8GB GDDR6X](https://img.shields.io/badge/-MSI NVIDIA RTX 3060 Ti 8GB GDDR6X-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 ### `> ./scripts/fetch_stats.sh`
 
