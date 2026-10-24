@@ -23,7 +23,7 @@
 ### `> dpkg-reconfigure tzdata`
 
 🕛 **Часовой пояс:**
-![UTC+3](https://img.shields.io/badge/-UTC_%2B3-333333?style=flat-square&logo=world&logoColor=white) ![Europe/Moscow](https://img.shields.io/badge/-Europe%2FMoscow-ED1B24?style=flat-square&logo=clock&logoColor=white)
+![UTC +3](https://img.shields.io/badge/🌐_UTC-%2B3-008080?style=flat-square) ![Europe/Moscow](https://img.shields.io/badge/🕒_Europe-Moscow-ED1B24?style=flat-square)
 
 ### `> ./scripts/fetch_stats.sh`
 
