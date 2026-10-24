@@ -20,6 +20,11 @@
 🖥️ **Мой компьютер:**
 ![Windows 11 IoT LTSC](https://img.shields.io/badge/-Windows_11_IoT_LTSC-0078D4?style=flat-square&logo=codeblocks&logoColor=white) ![Intel Core i9](https://img.shields.io/badge/-Intel_Core_i9--9900K-0071C5?style=flat-square&logo=intel&logoColor=white) ![Z390 AORUS ELITE](https://img.shields.io/badge/-Z390_AORUS_ELITE-F7300B?style=flat-square&logo=intel&logoColor=white) ![32GB RAM](https://img.shields.io/badge/-32GB_RAM-555555?style=flat-square&logo=corsair&logoColor=white) ![MSI](https://img.shields.io/badge/-MSI-FF0000?style=flat-square&logo=msi&logoColor=white) ![NVIDIA RTX 3060 Ti](https://img.shields.io/badge/-NVIDIA_RTX_3060_Ti-76B900?style=flat-square&logo=nvidia&logoColor=white) ![8GB GDDR6X](https://img.shields.io/badge/-8GB_GDDR6X-555555?style=flat-square&logo=samsung&logoColor=white)
 
+### `> dkpg-reconfigure tzdata`
+
+🕛 **Часовой пояс:**
+![UTC+3](https://img.shields.io/badge/-UTC_%2B3-333333?style=flat-square&logo=world&logoColor=white) ![Europe/Moscow](https://img.shields.io/badge/-Europe%2FMoscow-ED1B24?style=flat-square&logo=clock&logoColor=white)
+
 ### `> ./scripts/fetch_stats.sh`
 
 <p align="left">
